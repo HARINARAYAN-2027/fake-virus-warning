@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fake-virus-warning/static/css/main.24aab19d.css",
+    "main.js": "/fake-virus-warning/static/js/main.52e7d288.js",
+    "index.html": "/fake-virus-warning/index.html",
+    "main.24aab19d.css.map": "/fake-virus-warning/static/css/main.24aab19d.css.map",
+    "main.52e7d288.js.map": "/fake-virus-warning/static/js/main.52e7d288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24aab19d.css",
+    "static/js/main.52e7d288.js"
+  ]
+}
