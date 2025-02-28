@@ -1,0 +1,26 @@
+.scanner {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.progress-bar {
+  width: 80%;
+  height: 20px;
+  background: #ddd;
+  margin: 20px auto;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  width: 0;
+  background: red;
+  transition: width 1s;
+}
+
+#scan-status {
+  font-size: 18px;
+  font-weight: bold;
+  color: red;
+}
